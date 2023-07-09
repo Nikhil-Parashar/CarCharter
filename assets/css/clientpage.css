@@ -1,0 +1,12 @@
+.form-area {
+    background-color: #FAFAFA;
+    padding: 10px 40px 60px;
+    margin: 10px 0px 10px;
+    border: 1px solid GREY;
+    opacity: 0.9;
+}
+
+input#mobile{
+    width: 40%;
+    height: 30%;
+}
